@@ -4,11 +4,11 @@ A beautiful and interactive countdown timer web application that allows users to
 
 ## Features
 
-- 🎯 Set target date and time for countdown
-- ⏰ Real-time countdown display
-- 🎨 Modern and responsive design
-- 🌈 Animated gradient background
-- 📱 Mobile-friendly interface
+-  Set target date and time for countdown
+-  Real-time countdown display
+-  Modern and responsive design
+-  Animated gradient background
+-  Mobile-friendly interface
 
 ## Technologies Used
 
